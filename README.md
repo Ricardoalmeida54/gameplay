@@ -1,15 +1,5 @@
-<h1 align="center">
-  <img alt="GamePlay" height="80" title="Plant Manager" src=".github/logo.png" />
-</h1>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033">
-
- <img src="https://img.shields.io/static/v1?label=NLW&message=06&color=E51C44&labelColor=0A1033" alt="NLW 06" />
-</p>
 
 
-![cover](.github/cover.png?style=flat)
 
 
 ## 💻 Projeto
@@ -81,8 +71,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <br />
 
 <div align="center">
-  <small>Desenvolvido por Rodrigo Gonçalves Santana - Junho/2021</small>
+  <small>Desenvolvido Ricardo Robert - Junho/2021</small>
 
-  [![Instagram Badge](https://img.shields.io/badge/-rodrigo.goncalves.s-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/rodrigo.goncalves.s/)](https://www.instagram.com/rodrigo.goncalves.s/) 
-  [![Linkedin Badge](https://img.shields.io/badge/-Rodrigo%20Gonçalves%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/)](https://www.linkedin.com/in/rodrigo-gon%C3%A7alves-santana/) 
+  
 </div>
